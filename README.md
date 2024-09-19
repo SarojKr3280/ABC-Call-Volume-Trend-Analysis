@@ -24,3 +24,6 @@ Night Shift Manpower Planning: Customers also call ABC Insurance Company at nigh
 Your Task: Propose a manpower plan for each time bucket throughout the day, keeping the maximum abandon rate at 10%.<br>
 
 Assumptions: An agent works for 6 days a week; On average, each agent takes 4 unplanned leaves per month; An agent's total working hours are 9 hours, out of which 1.5 hours are spent on lunch and snacks in the office. On average, an agent spends 60% of their total actual working hours (i.e., 60% of 7.5 hours) on calls with customers/users. The total number of days in a month is 30.
+
+![image](https://github.com/user-attachments/assets/ed459e09-e770-4cb6-8e7b-f8869270dc7e)
+
